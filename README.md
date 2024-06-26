@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # My Profile Website
 
 This is a simple personal profile website template created using HTML, CSS, and JavaScript. It includes a basic structure for showcasing personal information, projects, and contact details.
@@ -22,5 +21,3 @@ This is a simple personal profile website template created using HTML, CSS, and 
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 =======
-# Personal-Profile-website
->>>>>>> d8f5ea53428636e995ffcfd1f72eaf0b09691f80
